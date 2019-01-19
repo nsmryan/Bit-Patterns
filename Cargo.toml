@@ -1,0 +1,8 @@
+[package]
+name = "git_pattern"
+version = "0.1.0"
+authors = ["Noah Ryan <noah.m.ryan@nasa.gov>"]
+
+[dependencies]
+# image = "0.21"
+gif = "0.10"
